@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#13214B"/>
+  <g transform="rotate(38 330 360)"><rect x="275" y="300" width="120" height="120" rx="16" fill="#0E9C94"/></g>
+  <g transform="rotate(24 320 340)"><rect x="268" y="282" width="120" height="120" rx="16" fill="#16AFA6"/></g>
+  <g transform="rotate(10 310 320)"><rect x="260" y="264" width="120" height="120" rx="16" fill="#26BDB4"/></g>
+  <path d="M140 110 H272 L340 178 V380 a20 20 0 0 1 -20 20 H140 a20 20 0 0 1 -20 -20 V130 a20 20 0 0 1 20 -20 Z" fill="#34BFB7"/>
+  <path d="M272 110 V158 a20 20 0 0 0 20 20 H340 Z" fill="#139E96"/>
+  <rect x="160" y="210" width="130" height="14" rx="7" fill="#E6F7F6"/>
+  <rect x="160" y="250" width="100" height="14" rx="7" fill="#E6F7F6"/>
+  <rect x="160" y="290" width="84" height="14" rx="7" fill="#E6F7F6"/>
+  <path d="M392 82 C398 122 410 134 450 140 C410 146 398 158 392 198 C386 158 374 146 334 140 C374 134 386 122 392 82 Z" fill="#FFD21F"/>
+  <path d="M322 82 C324 94 328 98 340 100 C328 102 324 106 322 118 C320 106 316 102 304 100 C316 98 320 94 322 82 Z" fill="#FFD21F"/>
+  <circle cx="432" cy="210" r="7" fill="#FFD21F"/>
+</svg>

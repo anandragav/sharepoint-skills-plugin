@@ -1,0 +1,24 @@
+{
+  "name": "sharepoint-skills-anand",
+  "displayName": "SharePoint Skills by Anand Vijayaragavan",
+  "version": "0.1.0",
+  "description": "Skills for SharePoint and Microsoft 365 communicators: turn a Word newsletter into a designed page, build campaign and customer stories, narrated story animations, topic explainers, flashcard dashboards and document browsers. Skills-only: nothing is hosted, your agent produces the files and you upload them. Sourced from the PnP sharepoint-skills community repo.",
+  "author": {
+    "name": "Anand Vijayaragavan",
+    "url": "https://github.com/anandragav"
+  },
+  "homepage": "https://github.com/pnp/sharepoint-skills",
+  "repository": "https://github.com/pnp/sharepoint-skills",
+  "license": "MIT",
+  "keywords": [
+    "sharepoint",
+    "microsoft-365",
+    "newsletter",
+    "intranet",
+    "pnp",
+    "communications",
+    "dashboard"
+  ],
+  "skills": "./skills/",
+  "logo": "assets/logo.svg"
+}
