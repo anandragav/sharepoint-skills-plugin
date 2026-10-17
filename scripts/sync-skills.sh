@@ -11,7 +11,7 @@ SKILLS=(
   "flashcards-dashboard|main"
   "narrated-story-animation|main"
   "topic-explainer|main"
-  "team-newsletter-publisher|pull/74/head"   # switch to main once PR #74 merges
+  "team-newsletter-publisher|main"
 )
 TMP="$(mktemp -d)"; trap 'rm -rf "$TMP"' EXIT
 git clone -q --filter=blob:none "$REPO" "$TMP/src"

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "sharepoint-skills-anand",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SharePoint / Microsoft 365 communication skills by Anand Vijayaragavan, sourced from pnp/sharepoint-skills. Skills-only, nothing hosted.",
   "author": {
     "name": "Anand Vijayaragavan",
